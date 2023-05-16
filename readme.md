@@ -5,4 +5,4 @@
 npm -f install
 npm expo start
 
-![Funcionamiento]("./project/fun.gif")
+![Funcionamiento](./project/fun.gif)
